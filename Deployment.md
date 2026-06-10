@@ -11,8 +11,8 @@ Email: kshayan1234554321@gmail.com
 Pass: test1234
 ```
 
-Private Docs created: 
-Public Doc created: 
+Private Docs created: https://docs.robodialog.com/share/6a293779bbb2985687114f0c
+Public Doc created: https://docs.robodialog.com/share/6a293c40558a8ab656663b69
 
 ## Deployment
 - I used my private VPS to host this app
